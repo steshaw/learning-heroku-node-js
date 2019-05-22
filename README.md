@@ -1,4 +1,6 @@
-# node-js-getting-started
+# Learning Heroku with Node.js
+
+Tutorial from https://github.com/heroku/node-js-getting-started.
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
